@@ -26,4 +26,6 @@ Nesta aula, exploramos os seguintes pilares:
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SuperTalentos-CIN/Aula-1-supertalentos.git](https://github.com/SuperTalentos-CIN/Aula-1-supertalentos.git)
+   git clone https://github.com/SuperTalentos-CIN/Introducao_a_python.git
+   ```
+2. **Escolha um arquivo python e clique em Run Python File**
